@@ -8,7 +8,7 @@ The website provides discussion boards, polls, and shared study materials to hel
 
 ## 🌐 Visit the Site
 
-👉 [Go to Psyched Together](https://yourwebsiteurl.com)
+👉 [Go to Psyched Together](https://PsychedTogether.com)
 
 ---
 
@@ -23,14 +23,6 @@ Psyched Together brings everything into one organized platform designed specific
 
 This repository exists to provide information and direct access to the official Psyched Together website.  
 All code and development work are hosted privately.
-
----
-
-## 📬 Contact
-
-For questions, feedback, or collaboration:
-- **Email:** [your-email@domain.com](mailto:your-email@domain.com)
-- **Website:** [https://yourwebsiteurl.com](https://yourwebsiteurl.com)
 
 ---
 
