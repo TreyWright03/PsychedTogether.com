@@ -1,52 +1,37 @@
-# 🧠 Psyched Together
+# Psyched Together
 
-**Psyched Together** is a collaborative platform built for psychology students to **connect, discuss, and share resources** in one organized space. The goal is to make academic collaboration easier, encourage peer support, and bridge the gap between students and professors.
+**Psyched Together** is an online platform created for psychology students to connect, collaborate, and share resources in one place.
 
----
-
-## 🌐 Live Demo
-[Visit Psyched Together](https://yourwebsiteurl.com)
+The website provides discussion boards, polls, and shared study materials to help students stay engaged and support each other throughout their academic journey.
 
 ---
 
-## 📖 About the Project
+## 🌐 Visit the Site
 
-Psychology students often struggle with scattered resources and limited opportunities for meaningful collaboration.  
-**Psyched Together** solves that by providing:
-
-- 🗣️ **Discussion Boards** – Talk about coursework, research topics, or psychology trends.  
-- 📊 **Polls & Feedback** – Create and vote on polls to spark conversation.  
-- 📚 **Resource Sharing** – Access and share study materials and academic tools.  
-- 👩‍🏫 **Faculty Connections** – Connect with professors and mentors directly.  
+👉 [Go to Psyched Together](https://yourwebsiteurl.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 📖 About
 
-| Category | Technology |
-|-----------|-------------|
-| Frontend | HTML, CSS, React.js |
-| Backend | PHP |
-| Database | MySQL |
-| Hosting | Hostinger |
-| Authentication | Custom user system (email & password) |
+Psychology students often rely on scattered group chats, shared drives, and social media for academic collaboration.  
+Psyched Together brings everything into one organized platform designed specifically for students and professors in the psychology community.
 
 ---
 
-## 🚀 Features
+## 💡 Purpose
 
-- 🧾 User registration & login  
-- 💬 Create, browse, and comment on posts or polls  
-- 🔍 Search and filter discussions  
-- 🌈 Clean, responsive UI for all devices  
-- 🔐 Secure database-driven authentication  
+This repository exists to provide information and direct access to the official Psyched Together website.  
+All code and development work are hosted privately.
 
 ---
 
-## ⚙️ Getting Started
+## 📬 Contact
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/psyched-together.git
-cd psyched-together
+For questions, feedback, or collaboration:
+- **Email:** [your-email@domain.com](mailto:your-email@domain.com)
+- **Website:** [https://yourwebsiteurl.com](https://yourwebsiteurl.com)
 
+---
+
+_Made by students, for students._
